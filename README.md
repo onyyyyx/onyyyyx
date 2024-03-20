@@ -2,5 +2,5 @@
 - 👀 I’m interested in sybersecurity, quantum physics, math, music...
 - 🌱 I’m currently learning C and hacking
 - 💞️ I’m looking to collaborate on a project
-- 📫 I can be reached on Discord or on Instagramram
+- 📫 I can be reached on Discord or on Instagram
 - 👦🏻 Pronouns: he/him
