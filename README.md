@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onyyyyx
-- 👀 I’m interested in sybersecurity, quantum physics, math, music...
+- 👀 I’m interested in cybersecurity, quantum physics, math, music...
 - 🌱 I’m currently learning C and hacking
 - 💞️ I’m looking to collaborate on a project
 - 📫 I can be reached on Discord or on Instagram
